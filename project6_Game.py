@@ -6,7 +6,7 @@ Welcome in our game
 choose one of our games
         1 : odd_even
         2 : words_count
-        3 : num_range
+        3 : num_srange
         4 : dividing_1
         5 : dividing_2
     Press X to exit''')
